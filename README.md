@@ -1,70 +1,98 @@
-# Getting Started with Create React App
+# Some React Interview Questions
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Is React Faster?
 
-## Available Scripts
+Yes
 
-In the project directory, you can run:
+2. How many times faster ?
+   10 times faster compared to Angular
 
-### `yarn start`
+3. React is Library or framework?
+   Library
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+4. What is framework Vs Library?
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+rules and regulations is called framework
 
-### `yarn test`
+no rules and regulations is called Library
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5. Diff b/w Angular to React?
+   Angular will work on Real DOM, React will work on Virtual DOM
 
-### `yarn build`
+6. Is React component based?
+   Yes
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+7. Is Angular component based?
+   yes
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+8.because of component code reusability is high
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+9. react released by facebook
 
-### `yarn eject`
+10. Angular released by Google
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+11. Angular released in which year 2012
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+12. React released in 2013, famous in market from 2016
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+13. Who is light weight ? React
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+14. who follows virtual DOM? React
 
-## Learn More
+# React Environmental Setup
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+============================
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. download and install NodeJS
 
-### Code Splitting
+   - "npm" is the tool, present in Node JS, helps to install ReactJS
+   - "npm" stands for node packing manager
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+   website: https://nodejs.org/en/download/
 
-### Analyzing the Bundle Size
+   File:node-v14.15.0-x64.msi
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+   -msi stands for microsft installer
 
-### Making a Progressive Web App
+2. Install yarn tool
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+   - yarn tool provided by Facebook.
 
-### Advanced Configuration
+   - yarn tool, used to download the libraries in faster manner.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+   - npm install -g yarn@latest
 
-### Deployment
+   - "npm" stands for node packing manager.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+   - "-g" stands for global installation.
 
-### `yarn build` fails to minify
+3. Install "create-react-app"
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+   - helps to create the react projects.
+
+---
+
+In How many ways we can React Applications? JSX and TSX
+
+How to create the react application.
+
+1. Create the directory
+   Ex. class_applications
+
+2. Switch to class-applications
+
+   > cd React-Installation
+
+3. create the react application
+
+   > create-react-app first-app
+
+   - "first-app" is the react application.
+
+4. switch to react application.
+
+   > cd first-app
+
+5. execute the react application.
+
+   > yarn start / npm start
