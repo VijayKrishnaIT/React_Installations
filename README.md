@@ -1,8 +1,6 @@
 # Some React Interview Questions
 
-1. Is React Faster?
-
-Yes
+1. Is React Faster? Yes
 
 2. How many times faster ?
    10 times faster compared to Angular
@@ -19,13 +17,11 @@ no rules and regulations is called Library
 5. Diff b/w Angular to React?
    Angular will work on Real DOM, React will work on Virtual DOM
 
-6. Is React component based?
-   Yes
+6. Is React component based? Yes
 
-7. Is Angular component based?
-   yes
+7. Is Angular component based? yes
 
-8.because of component code reusability is high
+8. because of component code reusability is high
 
 9. react released by facebook
 
