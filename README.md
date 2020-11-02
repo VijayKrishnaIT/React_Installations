@@ -87,6 +87,8 @@ How to create the react application.
 
    > create-react-app first-app
 
+   - the default port no of react application is 3000
+
    - "first-app" is the react application.
 
 4. switch to react application.
